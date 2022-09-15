@@ -1,0 +1,5 @@
+{   
+    "description": "Read of text file",
+    "input":"files/hello1.txt",
+    "expected": "Hello World!"
+}

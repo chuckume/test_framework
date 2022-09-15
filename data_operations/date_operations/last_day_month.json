@@ -1,0 +1,5 @@
+{
+    "description": "Last day of month",
+    "input":"2020-02-05T22:55:30.000Z",
+    "expected":"2020-04-29T00:00:00.000Z"
+}

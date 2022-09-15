@@ -1,0 +1,5 @@
+{   
+    "description": "Read key 'content' of json file",
+    "file_target":"hello.json",
+    "expected": "Hello Universe!"
+}

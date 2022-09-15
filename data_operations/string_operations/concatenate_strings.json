@@ -1,0 +1,8 @@
+{
+    "description": "Concatenate string1 and string2",
+    "input":{
+                "string1":"Hello ",
+                "string2":"There"
+            },
+    "expected":"Hello There"
+}

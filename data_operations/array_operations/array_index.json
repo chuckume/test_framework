@@ -1,0 +1,8 @@
+{
+    "description": "Get index of values in data",
+    "input":{
+        "data":[8,15,4,9,12],
+        "values":[15,12,8]
+        },
+    "expected":[1,4,0]
+}

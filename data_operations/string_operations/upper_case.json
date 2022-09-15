@@ -1,0 +1,5 @@
+{
+    "description": "Uppercase of input",
+    "input":"Normal String",
+    "expected":"NORMAL STRING"
+}

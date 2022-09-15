@@ -1,0 +1,5 @@
+{
+    "description": "Return day of input",
+    "input":"2020-04-14T22:55:30.000Z",
+    "expected":14
+}

@@ -1,0 +1,5 @@
+{
+    "description": "Index of is in input string (assuming index starts at 0)",
+    "input":"this_is_a_string",
+    "expected":5
+}

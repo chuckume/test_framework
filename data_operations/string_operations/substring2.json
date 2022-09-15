@@ -1,0 +1,5 @@
+{
+    "description": "Substring between second and third of '_'",
+    "input":"this_is_a_string",
+    "expected":"a"
+}

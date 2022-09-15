@@ -1,0 +1,8 @@
+{
+    "description": "Rearange array1 and array2 to produce expected result",
+    "input":{
+        "array1:":[1,2,3,4],
+        "array2:":["a","b","c","d"]
+    },
+    "expected":[[1,"a"],[2,"b"],[3,"c"],[4,"d"]]
+}

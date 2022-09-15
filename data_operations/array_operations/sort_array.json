@@ -1,0 +1,5 @@
+{
+    "description": "Return an array with second and last value",
+    "input":[8,15,4,9,12],
+    "expected":[4,8,9,12,15]
+}

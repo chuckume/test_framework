@@ -1,0 +1,5 @@
+{
+    "description": "Return day of input format. Expected format is YYYY-MM-DD-Thh:mm:ss.",
+    "input":"04-14-2020T22:55:30.000Z",
+    "expected":"2020-04-14T22:55:30.000Z"
+}
